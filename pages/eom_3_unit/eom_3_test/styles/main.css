@@ -405,7 +405,7 @@ video{
     min-width: 200px;
 }
 .description_w_input_2 {
-    width: 67%;
+    width: 100%;
     margin-left: 25px;
 }
 .description_w_input_2 p{
@@ -956,7 +956,7 @@ line{
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
-    width: 60% !important;
+    width: 100% !important;
 }
 .test_wrapper_type_10{
     display: flex;
@@ -1033,7 +1033,7 @@ line{
     overflow: hidden;
     margin-right: 15px;
     font-size: clamp(15px, 1.5vw, 25px);
-    width: clamp(150px, 20vw, 450px);
+    width: clamp(150px, 30vw, 750px);
     height: 100px;
     margin-left: 15px;
 }
@@ -1203,7 +1203,7 @@ line{
 .zoom_paragraph {
     display: block;
     height: initial !important;
-    width: 350px;
+    width: 100% !important;
     text-indent: 0% !important;
     white-space: wrap !important;
     overflow: initial !important;

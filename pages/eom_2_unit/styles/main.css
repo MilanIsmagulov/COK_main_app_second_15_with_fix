@@ -42,7 +42,7 @@ footer {
     z-index: 10000;
 }
 p{
-    text-align: left;
+    text-align: left !important;
     text-indent: 0%;
     margin-bottom: 25px;
     font-size: clamp(18px, 1.5vw, 25px);

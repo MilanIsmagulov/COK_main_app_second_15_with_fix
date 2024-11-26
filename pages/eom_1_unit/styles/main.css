@@ -28,7 +28,7 @@ header, footer {
     background-color: #333;
 }
 p {
-    text-align: justify;
+    text-align: left !important;
     text-indent: 4%;
     margin-bottom: 25px;
     font-size: clamp(18px, 1.5vw, 25px);
