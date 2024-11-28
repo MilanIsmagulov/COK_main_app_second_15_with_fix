@@ -1582,3 +1582,12 @@ line{
         width: 400px;
     }
 }
+
+p{
+    text-align: left !important;
+}
+
+.popup_window{
+    z-index: 18000 !important;
+}
+
