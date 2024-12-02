@@ -1581,6 +1581,13 @@ line{
     .image_wrapper{
         width: 400px;
     }
+    .black_title{
+        flex-direction: column;
+    }
+    .black_title button{
+        margin: 0;
+        margin-bottom: 25px;
+    }
 }
 
 p{

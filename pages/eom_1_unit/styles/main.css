@@ -151,7 +151,7 @@ p {
     color: black;
 }
 .background_color {
-    background-color: rgba(176, 193, 211, 0.75) !important;
+    background-color: rgba(176, 193, 211, 0.25) !important;
     position: fixed;
     inset: 0;
     z-index: -1;
